@@ -5,12 +5,10 @@
 <br>
 <div>
   <h1>oi.. :)</h1>
-  <h3 style="font-size: 50rpx; line-height: 1.6;">
-    ola! Meu nome é Victor Hugo, tenho 19 anos e atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas. Estou me especializando em desenvolvimento front-end, com conhecimentos complementares em back-end. Sou apaixonado por tecnologia, leitura e música, e estou em           constante busca por aprendizado e crescimento na área de desenvolvimento de software.
-  <h3/>
-<br>
+  <br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=270&lines=Olá!+Meu+nome+é+Victor+Hugo%2C+tenho+19+anos.;Curso+o+3º+semestre+de+Análise+e+Desenvolvimento+de+Sistemas.;Especializando-me+em+front-end+com+noções+em+back-end.;Apaixonado+por+tecnologia%2C+leitura+e+música.;Sempre+em+busca+de+aprendizado+e+evolução!)](https://git.io/typing-svg)
 <div/>
-<br>
 <div>
   <h1>linguagens - estudando/proficiência</h1>
   <br>

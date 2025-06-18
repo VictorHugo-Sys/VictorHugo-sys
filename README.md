@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9831f7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff08ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+Victor+Hugo;I+am+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9831f7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+Victor+Hugo;I+am+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <div>
@@ -79,6 +79,6 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHugo-Sys&bg_color=000000&color=ff08ff&line=ffff00&point=ff08ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHugo-Sys&bg_color=000000&color=9831f7&line=9831f7&point=ff08ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9831f7&height=120&section=footer"/>

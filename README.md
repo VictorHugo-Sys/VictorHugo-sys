@@ -7,7 +7,7 @@
   <h1>oi.. :)</h1>
   <br>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=270&lines=Olá!+Meu+nome+é+Victor+Hugo%2C+tenho+19+anos.;Curso+o+3º+semestre+de+Análise+e+Desenvolvimento+de+Sistemas.;Especializando-me+em+front-end+com+noções+em+back-end.;Apaixonado+por+tecnologia%2C+leitura+e+música.;Sempre+em+busca+de+aprendizado+e+evolução!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=270&lines=Olá!+Sou+Victor+Hugo%2C+desenvolvedor+front-end.;Atualmente+cursando+Análise+e+Desenvolvimento+de+Sistemas.;Trabalho+com+HTML%2C+CSS%2C+JavaScript%2C+React+e+Tailwind+CSS.;Tenho+noções+em+Python%2C+Django+e+bancos+de+dados.;Apaixonado+por+tecnologia+e+sempre+em+busca+de+evolução!)](https://git.io/typing-svg)
 <div/>
 <div>
   <h1>linguagens - estudando/proficiência</h1>
